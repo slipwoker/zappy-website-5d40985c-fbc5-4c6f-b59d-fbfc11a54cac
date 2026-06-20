@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://liem-bakes-5d40985c.zappy5.app
+https://example.com
 מחפשים simpli coffee &amp; bakery שילווה את הקפה שלכם? ב-Liem Bakes אופים עוגיות מושלמות שמתאימות לכל רגע מתוק. בקרו באתר והזמינו עכשיו חוויה אפויה שלא תשכחו.
 
 ### הסיפור שלנו
-https://liem-bakes-5d40985c.zappy5.app/our-story
+https://example.com/our-story
 מאחורי Liem Bakes מסתתר סיפור של אהבה לבצק ולמתוק. גלו איך הפכנו תשוקה לעוגיות למפעל חיים, ולמה כל לקוח חוזר לעוד טעימה. הצטרפו למסע המתוק שלנו.
 
 ### מתנות לעסקים
-https://liem-bakes-5d40985c.zappy5.app/corporate-gifting
+https://example.com/corporate-gifting
 מחפשים עוגיות מתנה לעסקים שיבליטו את המותג שלכם? ב-Liem Bakes יוצרים מארזי פרימיום מותאמים אישית, מלווים ב-simpli coffee &amp; bakery, להשארת רושם מתוק. צרו קשר להזמנה מיוחדת.
 
 ### צור קשר
-https://liem-bakes-5d40985c.zappy5.app/contact
+https://example.com/contact
 יש לכם שאלה על simpli coffee &amp; bakery או על עוגיות מתנה לעסקים? צוות Liem Bakes כאן כדי לעזור. מלאו את הפרטים ונחזור אליכם עם חיוך מתוק והצעה שאי אפשר לסרב לה.
 
 ### Products
-https://liem-bakes-5d40985c.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Liem Bakes
 
 ### Cart
-https://liem-bakes-5d40985c.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://liem-bakes-5d40985c.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://liem-bakes-5d40985c.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://liem-bakes-5d40985c.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://liem-bakes-5d40985c.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://liem-bakes-5d40985c.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Liem Bakes
 
 ### Category
-https://liem-bakes-5d40985c.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Liem Bakes
 
 ### תודה על פנייתך
-https://liem-bakes-5d40985c.zappy5.app/thank-you
+https://example.com/thank-you
 Liem Bakes - תודה על פנייתך
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://liem-bakes-5d40985c.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://liem-bakes-5d40985c.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://liem-bakes-5d40985c.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -100,8 +100,8 @@ Bakery / Food & Beverage
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://liem-bakes-5d40985c.zappy5.app/sitemap.xml
-- Robots: https://liem-bakes-5d40985c.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://liem-bakes-5d40985c.zappy5.app/llms-full.txt
-- Products (JSON): https://liem-bakes-5d40985c.zappy5.app/products.json
-- Products (Google Merchant RSS): https://liem-bakes-5d40985c.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
